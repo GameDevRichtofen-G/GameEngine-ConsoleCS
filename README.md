@@ -3,7 +3,47 @@
 ## About
 This is a simple game engine created in **one day** using C#. It leverages console applications to provide a basic framework for game development.
 
----
+## Getting Started
+### GameEngine-C#RAW
+This is the core engine where you can create your own games.
+To run it, simply either play in debug mode or run the application directly.
+
+### GameEngine-CarGame
+This is a game template created using the engine.
+To run it, either play in debug mode or launch the application.
+
+## `Main_Class`
+`Main_Class` is a type of class that can be used during gameplay.  
+You can place it, render it, handle collisions, update it, or destroy it.
+
+### Variables :
+`float : ` `x` : x coordinates
+`y` : y coordinates
+`z` : z coordinates
+
+`w` : width of `Main_class`
+
+`h` : height of `Main_class`
+
+.
+
+`bool` `Check_for_collision` : Can we check for collision or not
+
+`bool` `Can_render` : A variable that determines whether that render engine can render `Main_class` or not 
+
+`bool` `spawn` : if false, this class will be destroyed.
+
+.
+
+`String` `shape` : Defines the structure of a class and how the rendering engine processes it for rendering visuals
+
+`ConsoleColor` `color` : Determine how render engine render the color of `Main_class` a.k.a material
+
+
+
+
+
+
 
 ## Input System
 ### How to Use
