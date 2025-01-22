@@ -12,9 +12,16 @@ To run it, simply either play in debug mode or run the application directly.
 This is a game template created using the engine.
 To run it, either play in debug mode or launch the application.
 
-## `Main_Class`
-`Main_Class` is a type of class that can be used during gameplay.  
+## `Main_class`
+`Main_class` is a type of class that can be used during gameplay.  
 You can place it, render it, handle collisions, update it, or destroy it.
+
+### Create Child Classes
+To create an instance of `Main_Class`, go to **Solution Explorer** → **Right-click on ProjectName** → **Add** → **New Item**.  
+Make sure to update the reference like this:
+```csharp
+internal class [ClassName] : Main_class
+```
 
 ### Variables :
 `float : ` `x` : x coordinates
@@ -40,8 +47,118 @@ You can place it, render it, handle collisions, update it, or destroy it.
 `ConsoleColor` `color` : Determine how render engine render the color of `Main_class` a.k.a material
 
 
+## Functions :
+
+To use functions in Main_class instances make sure to override them.
+```csharp
+public override void BeginPlay()
+{
+    //will get called on the first frame
+}
+```
+
+```csharp
+public override void BeginPlay_Respawn()
+{
+    // A function that is called when the class has been spawned.
+}
+```
+
+```csharp
+public override void Update(float deltaTime)
+{
+    //will get called on everyFrame
+}
+```
+
+```csharp
+public override void InputRecieve(Input_system CatchInput)
+{
+    //will get called on everyFrame
+}
+```
+
+```csharp
+public override void SpawnClass(Main_class SpawnClass,float x, float y,bool Can_render)
+{
+        //spawn a class
+
+        //setting up coordinates
+        SpawnClass.x = x;
+        SpawnClass.y = y;
+        SpawnClass.z = 0;
 
 
+        //setting up some other settings
+        SpawnClass.Can_render = true;
+        SpawnClass.BeginPlay_Respawn();
+
+    //check to see if this class's Public_classes is available
+    if (variables != null)
+    {
+         variables.Classes.Add(SpawnClass); //Spawn the class by adding it to Public_class's Classes
+    }
+
+    
+}
+```
+
+
+
+```csharp
+public override void Check_collision(Main_class other)
+{
+    //check for collision function
+    if (other is [TargetClass])
+    {
+        if (x < other.x + other.w && x + w > other.x && y < other.y + other.h && y + h > other.y)
+        {
+            
+        }
+    }
+}
+```
+
+
+
+
+## BeginPlay function
+A function present in every instance of the Main_Class. It is called only during the first frame and can be useful for initializing variables.
+
+### Example
+```csharp
+public override void BeginPlay()
+{
+    spawn = true;
+    Can_render = true;
+    shape = "[[]]"; 
+    color = ConsoleColor.Red;
+    w = 8;
+    h = 1;
+    Check_for_collision = true;
+}
+
+
+
+
+```
+## Update function
+A function present in every instance of the Main_Class. It is called every frame and can be useful for updating the class.
+### Example
+```csharp
+public override void Update(float deltaTime)
+{
+    //if bullet's x coordinates was bigger than 5,minus x from speed, else destroy bullet
+    if(x > 5)
+    {
+        x = x - (speed * deltaTime);
+    }
+    else
+    {
+        spawn = false;
+    }
+}
+```
 
 
 
@@ -135,6 +252,8 @@ Here’s a list of all the inputs you can use in your game:
 - `VK_SCROLL = 0x91` → **Scroll Lock**
 
 ---
+
+## SpawnClass function
 
 ## Destroy class
 to destroy a Main_class instance you need to make `spawn` variable false. like this :
