@@ -144,6 +144,8 @@ public override void BeginPlay()
 ```
 ## Update function
 A function present in every instance of the Main_Class. It is called every frame and can be useful for updating the class.
+## Parameters
+`deltaTime` : the time interval in seconds it took from the last frame to the current frame
 ### Example
 ```csharp
 public override void Update(float deltaTime)
@@ -186,7 +188,7 @@ public override void InputRecieve(Input_system CatchInput)
 }
 ```
 
----
+
 
 ## Supported Inputs
 Here’s a list of all the inputs you can use in your game:
@@ -251,9 +253,85 @@ Here’s a list of all the inputs you can use in your game:
 - `VK_NUMLOCK = 0x90` → **Num Lock**
 - `VK_SCROLL = 0x91` → **Scroll Lock**
 
----
 
 ## SpawnClass function
+A function that can be use for spawning a new Main_class instance.
+
+## Parameters
+
+`Main_class` as `SpawnClass`
+.
+
+`x` : x coordinates
+
+`y` : y coordinates
+.
+
+`Can_render` : Determine if class is visible or not
+
+## Example:
+
+`TankClass` :
+
+```csharp
+public override void Update(float deltaTime)
+{
+
+    
+    //if random time was 0 or less, we will create a bullet class
+    if(Random_Time <= 0)
+    {
+        //create and spawn a bullet class
+        Bullet bullet = new Bullet();
+        SpawnClass(bullet, x, y, true);
+       
+        //reseting the random_Time to pick number between 1,7
+        Random_Time = random.Next(1, 7);
+        
+        
+
+    }
+```
+
+
+## Check_collision function 
+A function that checks whether Main_class instance hit another Main_class instance.
+
+### Parameters 
+`Main_class` as `other`
+
+## Example 
+
+```csharp
+if (other is Bullet)
+{
+    /*                             How collision works?
+                   first we check if other class is a bullet class
+                if yes then we use this formula to check for collision
+
+     𝑥 < 𝑜𝑡ℎ𝑒𝑟.𝑥 + 𝑜𝑡ℎ𝑒𝑟.𝑤 && 𝑥 + 𝑤 > 𝑜𝑡ℎ𝑒𝑟.𝑥 && 𝑦 < 𝑜𝑡ℎ𝑒𝑟.𝑦 + 𝑜𝑡ℎ𝑒𝑟.ℎ && 𝑦 + ℎ > 𝑜𝑡ℎ𝑒𝑟.𝑦
+
+                       if true then we destroy this car class
+
+
+ */
+
+if (other is Bullet)
+{
+    if (x < other.x + other.w && x + w > other.x && y < other.y + other.h && y + h > other.y)
+    {
+        variables.Player1_statue = false;
+        other.spawn = false;
+        spawn = false;
+    }
+}
+}
+```
+
+### NOTE 
+
+you need to set up this function manually
+
 
 ## Destroy class
 to destroy a Main_class instance you need to make `spawn` variable false. like this :
