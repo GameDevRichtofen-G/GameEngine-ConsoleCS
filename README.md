@@ -12,6 +12,8 @@ To run it, simply either play in debug mode or run the application directly.
 This is a game template created using the engine.
 To run it, either play in debug mode or launch the application.
 
+![Example Image](https://github.com/GameDevRichtofen-G/GameEngine-ConsoleCS/blob/master/example.PNG?raw=true)
+
 ## `Main_class`
 `Main_class` is a type of class that can be used during gameplay.  
 You can place it, render it, handle collisions, update it, or destroy it.
