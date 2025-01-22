@@ -1,30 +1,34 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\nima.rayan\\source\\repos\\GameEngine-C#RAW\\",
+  "WorkspaceRootPath": "C:\\Users\\nima.rayan\\source\\repos\\Github\\GameEngine-C#RAW\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{145D8ADD-953B-4762-8872-B80214DF1EBB}|something_random\\GameEngine.csproj|c:\\users\\nima.rayan\\source\\repos\\gameengine-c#raw\\something_random\\something_else.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{145D8ADD-953B-4762-8872-B80214DF1EBB}|something_random\\GameEngine.csproj|solutionrelative:something_random\\something_else.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\nima.rayan\\source\\repos\\Github\\GameEngine-C#RAW\\something_random\\GameEngine.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:something_random\\GameEngine.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{145D8ADD-953B-4762-8872-B80214DF1EBB}|something_random\\GameEngine.csproj|c:\\users\\nima.rayan\\source\\repos\\gameengine-c#raw\\something_random\\render_engine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{145D8ADD-953B-4762-8872-B80214DF1EBB}|something_random\\GameEngine.csproj|solutionrelative:something_random\\render_engine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\nima.rayan\\source\\repos\\Github\\GameEngine-C#RAW\\something_random\\Render_engine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:something_random\\Render_engine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{145D8ADD-953B-4762-8872-B80214DF1EBB}|something_random\\GameEngine.csproj|c:\\users\\nima.rayan\\source\\repos\\gameengine-c#raw\\something_random\\public_variables.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{145D8ADD-953B-4762-8872-B80214DF1EBB}|something_random\\GameEngine.csproj|solutionrelative:something_random\\public_variables.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\nima.rayan\\source\\repos\\Github\\GameEngine-C#RAW\\something_random\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:something_random\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{145D8ADD-953B-4762-8872-B80214DF1EBB}|something_random\\GameEngine.csproj|c:\\users\\nima.rayan\\source\\repos\\gameengine-c#raw\\something_random\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{145D8ADD-953B-4762-8872-B80214DF1EBB}|something_random\\GameEngine.csproj|solutionrelative:something_random\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\nima.rayan\\source\\repos\\Github\\GameEngine-C#RAW\\something_random\\Input_system.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:something_random\\Input_system.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{145D8ADD-953B-4762-8872-B80214DF1EBB}|something_random\\GameEngine.csproj|c:\\users\\nima.rayan\\source\\repos\\gameengine-c#raw\\something_random\\main_class.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{145D8ADD-953B-4762-8872-B80214DF1EBB}|something_random\\GameEngine.csproj|solutionrelative:something_random\\main_class.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\nima.rayan\\source\\repos\\Github\\GameEngine-C#RAW\\something_random\\Public_variables.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:something_random\\Public_variables.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{145D8ADD-953B-4762-8872-B80214DF1EBB}|something_random\\GameEngine.csproj|c:\\users\\nima.rayan\\source\\repos\\gameengine-c#raw\\something_random\\input_system.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{145D8ADD-953B-4762-8872-B80214DF1EBB}|something_random\\GameEngine.csproj|solutionrelative:something_random\\input_system.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\nima.rayan\\source\\repos\\Github\\GameEngine-C#RAW\\something_random\\something_else.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:something_random\\something_else.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\nima.rayan\\source\\repos\\Github\\GameEngine-C#RAW\\something_random\\Main_class.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:something_random\\Main_class.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -34,85 +38,90 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 5,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Main_class.cs",
-              "DocumentMoniker": "C:\\Users\\nima.rayan\\source\\repos\\GameEngine-C#RAW\\something_random\\Main_class.cs",
-              "RelativeDocumentMoniker": "something_random\\Main_class.cs",
-              "ToolTip": "C:\\Users\\nima.rayan\\source\\repos\\GameEngine-C#RAW\\something_random\\Main_class.cs",
-              "RelativeToolTip": "something_random\\Main_class.cs",
-              "ViewState": "AgIAAAUAAAAAAAAAAAAAAD0AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-22T17:41:34.867Z",
-              "EditorCaption": ""
+              "DocumentIndex": 0,
+              "Title": "GameEngine.csproj",
+              "DocumentMoniker": "C:\\Users\\nima.rayan\\source\\repos\\Github\\GameEngine-C#RAW\\something_random\\GameEngine.csproj",
+              "RelativeDocumentMoniker": "something_random\\GameEngine.csproj",
+              "ToolTip": "C:\\Users\\nima.rayan\\source\\repos\\Github\\GameEngine-C#RAW\\something_random\\GameEngine.csproj",
+              "RelativeToolTip": "something_random\\GameEngine.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-01-22T19:56:28.693Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "Render_engine.cs",
-              "DocumentMoniker": "C:\\Users\\nima.rayan\\source\\repos\\GameEngine-C#RAW\\something_random\\Render_engine.cs",
+              "DocumentMoniker": "C:\\Users\\nima.rayan\\source\\repos\\Github\\GameEngine-C#RAW\\something_random\\Render_engine.cs",
               "RelativeDocumentMoniker": "something_random\\Render_engine.cs",
-              "ToolTip": "C:\\Users\\nima.rayan\\source\\repos\\GameEngine-C#RAW\\something_random\\Render_engine.cs",
+              "ToolTip": "C:\\Users\\nima.rayan\\source\\repos\\Github\\GameEngine-C#RAW\\something_random\\Render_engine.cs",
               "RelativeToolTip": "something_random\\Render_engine.cs",
               "ViewState": "AgIAAAkAAAAAAAAAAAAAABgAAAA1AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-22T18:17:58.245Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\nima.rayan\\source\\repos\\GameEngine-C#RAW\\something_random\\Program.cs",
-              "RelativeDocumentMoniker": "something_random\\Program.cs",
-              "ToolTip": "C:\\Users\\nima.rayan\\source\\repos\\GameEngine-C#RAW\\something_random\\Program.cs",
-              "RelativeToolTip": "something_random\\Program.cs",
-              "ViewState": "AgIAABMAAAAAAAAAAAAAACAAAAAEAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-22T13:55:36.21Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "Input_system.cs",
-              "DocumentMoniker": "C:\\Users\\nima.rayan\\source\\repos\\GameEngine-C#RAW\\something_random\\Input_system.cs",
-              "RelativeDocumentMoniker": "something_random\\Input_system.cs",
-              "ToolTip": "C:\\Users\\nima.rayan\\source\\repos\\GameEngine-C#RAW\\something_random\\Input_system.cs",
-              "RelativeToolTip": "something_random\\Input_system.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-22T13:52:28.307Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-22T18:17:58.245Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "Public_variables.cs",
-              "DocumentMoniker": "C:\\Users\\nima.rayan\\source\\repos\\GameEngine-C#RAW\\something_random\\Public_variables.cs",
-              "RelativeDocumentMoniker": "something_random\\Public_variables.cs",
-              "ToolTip": "C:\\Users\\nima.rayan\\source\\repos\\GameEngine-C#RAW\\something_random\\Public_variables.cs",
-              "RelativeToolTip": "something_random\\Public_variables.cs",
-              "ViewState": "AgIAAAIAAAAAAAAAAAAAABIAAAAIAAAAAAAAAA==",
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\nima.rayan\\source\\repos\\Github\\GameEngine-C#RAW\\something_random\\Program.cs",
+              "RelativeDocumentMoniker": "something_random\\Program.cs",
+              "ToolTip": "C:\\Users\\nima.rayan\\source\\repos\\Github\\GameEngine-C#RAW\\something_random\\Program.cs",
+              "RelativeToolTip": "something_random\\Program.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAAACAAAAAEAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-22T13:52:35.525Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-22T13:55:36.21Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "something_else.cs",
-              "DocumentMoniker": "C:\\Users\\nima.rayan\\source\\repos\\GameEngine-C#RAW\\something_random\\something_else.cs",
-              "RelativeDocumentMoniker": "something_random\\something_else.cs",
-              "ToolTip": "C:\\Users\\nima.rayan\\source\\repos\\GameEngine-C#RAW\\something_random\\something_else.cs",
-              "RelativeToolTip": "something_random\\something_else.cs",
+              "DocumentIndex": 3,
+              "Title": "Input_system.cs",
+              "DocumentMoniker": "C:\\Users\\nima.rayan\\source\\repos\\Github\\GameEngine-C#RAW\\something_random\\Input_system.cs",
+              "RelativeDocumentMoniker": "something_random\\Input_system.cs",
+              "ToolTip": "C:\\Users\\nima.rayan\\source\\repos\\Github\\GameEngine-C#RAW\\something_random\\Input_system.cs",
+              "RelativeToolTip": "something_random\\Input_system.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-22T13:52:44.005Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-22T13:52:28.307Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Public_variables.cs",
+              "DocumentMoniker": "C:\\Users\\nima.rayan\\source\\repos\\Github\\GameEngine-C#RAW\\something_random\\Public_variables.cs",
+              "RelativeDocumentMoniker": "something_random\\Public_variables.cs",
+              "ToolTip": "C:\\Users\\nima.rayan\\source\\repos\\Github\\GameEngine-C#RAW\\something_random\\Public_variables.cs",
+              "RelativeToolTip": "something_random\\Public_variables.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAAABIAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-22T13:52:35.525Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "something_else.cs",
+              "DocumentMoniker": "C:\\Users\\nima.rayan\\source\\repos\\Github\\GameEngine-C#RAW\\something_random\\something_else.cs",
+              "RelativeDocumentMoniker": "something_random\\something_else.cs",
+              "ToolTip": "C:\\Users\\nima.rayan\\source\\repos\\Github\\GameEngine-C#RAW\\something_random\\something_else.cs",
+              "RelativeToolTip": "something_random\\something_else.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-22T13:52:44.005Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Main_class.cs",
+              "DocumentMoniker": "C:\\Users\\nima.rayan\\source\\repos\\Github\\GameEngine-C#RAW\\something_random\\Main_class.cs",
+              "RelativeDocumentMoniker": "something_random\\Main_class.cs",
+              "ToolTip": "C:\\Users\\nima.rayan\\source\\repos\\Github\\GameEngine-C#RAW\\something_random\\Main_class.cs",
+              "RelativeToolTip": "something_random\\Main_class.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAAAD0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-22T17:41:34.867Z"
             }
           ]
         }
