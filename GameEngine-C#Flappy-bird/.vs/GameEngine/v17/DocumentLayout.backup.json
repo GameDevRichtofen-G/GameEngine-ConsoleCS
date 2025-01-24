@@ -1,0 +1,342 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\nima.rayan\\source\\repos\\GameEngine-C#Flappy-bird\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{145D8ADD-953B-4762-8872-B80214DF1EBB}|Engine\\GameEngine.csproj|c:\\users\\nima.rayan\\source\\repos\\gameengine-c#flappy-bird\\engine\\physics_engine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{145D8ADD-953B-4762-8872-B80214DF1EBB}|Engine\\GameEngine.csproj|solutionrelative:engine\\physics_engine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{145D8ADD-953B-4762-8872-B80214DF1EBB}|Engine\\GameEngine.csproj|c:\\users\\nima.rayan\\source\\repos\\gameengine-c#flappy-bird\\engine\\main_class.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{145D8ADD-953B-4762-8872-B80214DF1EBB}|Engine\\GameEngine.csproj|solutionrelative:engine\\main_class.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{145D8ADD-953B-4762-8872-B80214DF1EBB}|Engine\\GameEngine.csproj|c:\\users\\nima.rayan\\source\\repos\\gameengine-c#flappy-bird\\engine\\main_class_temp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{145D8ADD-953B-4762-8872-B80214DF1EBB}|Engine\\GameEngine.csproj|solutionrelative:engine\\main_class_temp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{145D8ADD-953B-4762-8872-B80214DF1EBB}|Engine\\GameEngine.csproj|c:\\users\\nima.rayan\\source\\repos\\gameengine-c#flappy-bird\\engine\\public_variables.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{145D8ADD-953B-4762-8872-B80214DF1EBB}|Engine\\GameEngine.csproj|solutionrelative:engine\\public_variables.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{145D8ADD-953B-4762-8872-B80214DF1EBB}|Engine\\GameEngine.csproj|c:\\users\\nima.rayan\\source\\repos\\gameengine-c#flappy-bird\\engine\\render_engine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{145D8ADD-953B-4762-8872-B80214DF1EBB}|Engine\\GameEngine.csproj|solutionrelative:engine\\render_engine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{145D8ADD-953B-4762-8872-B80214DF1EBB}|Engine\\GameEngine.csproj|c:\\users\\nima.rayan\\source\\repos\\gameengine-c#flappy-bird\\engine\\ground2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{145D8ADD-953B-4762-8872-B80214DF1EBB}|Engine\\GameEngine.csproj|solutionrelative:engine\\ground2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{145D8ADD-953B-4762-8872-B80214DF1EBB}|Engine\\GameEngine.csproj|c:\\users\\nima.rayan\\source\\repos\\gameengine-c#flappy-bird\\engine\\pipe_2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{145D8ADD-953B-4762-8872-B80214DF1EBB}|Engine\\GameEngine.csproj|solutionrelative:engine\\pipe_2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{145D8ADD-953B-4762-8872-B80214DF1EBB}|Engine\\GameEngine.csproj|c:\\users\\nima.rayan\\source\\repos\\gameengine-c#flappy-bird\\engine\\pipe.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{145D8ADD-953B-4762-8872-B80214DF1EBB}|Engine\\GameEngine.csproj|solutionrelative:engine\\pipe.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{145D8ADD-953B-4762-8872-B80214DF1EBB}|Engine\\GameEngine.csproj|c:\\users\\nima.rayan\\source\\repos\\gameengine-c#flappy-bird\\engine\\flappy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{145D8ADD-953B-4762-8872-B80214DF1EBB}|Engine\\GameEngine.csproj|solutionrelative:engine\\flappy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{145D8ADD-953B-4762-8872-B80214DF1EBB}|Engine\\GameEngine.csproj|c:\\users\\nima.rayan\\source\\repos\\gameengine-c#flappy-bird\\engine\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{145D8ADD-953B-4762-8872-B80214DF1EBB}|Engine\\GameEngine.csproj|solutionrelative:engine\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{145D8ADD-953B-4762-8872-B80214DF1EBB}|Engine\\GameEngine.csproj|c:\\users\\nima.rayan\\source\\repos\\gameengine-c#flappy-bird\\engine\\pipe_spawner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{145D8ADD-953B-4762-8872-B80214DF1EBB}|Engine\\GameEngine.csproj|solutionrelative:engine\\pipe_spawner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{145D8ADD-953B-4762-8872-B80214DF1EBB}|Engine\\GameEngine.csproj|c:\\users\\nima.rayan\\source\\repos\\gameengine-c#flappy-bird\\engine\\ground.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{145D8ADD-953B-4762-8872-B80214DF1EBB}|Engine\\GameEngine.csproj|solutionrelative:engine\\ground.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\nima.rayan\\source\\repos\\GameEngine-C#RAW\\something_random\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\nima.rayan\\source\\repos\\GameEngine-C#RAW\\something_random\\GameEngine.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\nima.rayan\\source\\repos\\GameEngine-C#RAW\\something_random\\Main_class.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\nima.rayan\\source\\repos\\GameEngine-C#RAW\\something_random\\Render_engine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\nima.rayan\\source\\repos\\GameEngine-C#RAW\\something_random\\Input_system.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\nima.rayan\\source\\repos\\GameEngine-C#RAW\\something_random\\Public_variables.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\nima.rayan\\source\\repos\\GameEngine-C#RAW\\something_random\\something_else.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\nima.rayan\\source\\repos\\GameEngine-C#RAW\\something_random\\GameEngine.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Render_engine.cs",
+              "DocumentMoniker": "C:\\Users\\nima.rayan\\source\\repos\\GameEngine-C#Flappy-bird\\Engine\\Render_engine.cs",
+              "RelativeDocumentMoniker": "Engine\\Render_engine.cs",
+              "ToolTip": "C:\\Users\\nima.rayan\\source\\repos\\GameEngine-C#Flappy-bird\\Engine\\Render_engine.cs",
+              "RelativeToolTip": "Engine\\Render_engine.cs",
+              "ViewState": "AgIAABkAAAAAAAAAAAAAABcAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-24T16:09:55.764Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ground2.cs",
+              "DocumentMoniker": "C:\\Users\\nima.rayan\\source\\repos\\GameEngine-C#Flappy-bird\\Engine\\ground2.cs",
+              "RelativeDocumentMoniker": "Engine\\ground2.cs",
+              "ToolTip": "C:\\Users\\nima.rayan\\source\\repos\\GameEngine-C#Flappy-bird\\Engine\\ground2.cs",
+              "RelativeToolTip": "Engine\\ground2.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAAABYAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-24T17:50:19.073Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Public_variables.cs",
+              "DocumentMoniker": "C:\\Users\\nima.rayan\\source\\repos\\GameEngine-C#Flappy-bird\\Engine\\Public_variables.cs",
+              "RelativeDocumentMoniker": "Engine\\Public_variables.cs",
+              "ToolTip": "C:\\Users\\nima.rayan\\source\\repos\\GameEngine-C#Flappy-bird\\Engine\\Public_variables.cs",
+              "RelativeToolTip": "Engine\\Public_variables.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-24T16:16:30.281Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Main_class_temp.cs",
+              "DocumentMoniker": "C:\\Users\\nima.rayan\\source\\repos\\GameEngine-C#Flappy-bird\\Engine\\Main_class_temp.cs",
+              "RelativeDocumentMoniker": "Engine\\Main_class_temp.cs",
+              "ToolTip": "C:\\Users\\nima.rayan\\source\\repos\\GameEngine-C#Flappy-bird\\Engine\\Main_class_temp.cs",
+              "RelativeToolTip": "Engine\\Main_class_temp.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-24T15:45:26.331Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Main_class.cs",
+              "DocumentMoniker": "C:\\Users\\nima.rayan\\source\\repos\\GameEngine-C#Flappy-bird\\Engine\\Main_class.cs",
+              "RelativeDocumentMoniker": "Engine\\Main_class.cs",
+              "ToolTip": "C:\\Users\\nima.rayan\\source\\repos\\GameEngine-C#Flappy-bird\\Engine\\Main_class.cs",
+              "RelativeToolTip": "Engine\\Main_class.cs",
+              "ViewState": "AgIAAKQAAAAAAAAAAAAAAKoAAABKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-22T20:27:07.793Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Physics_Engine.cs",
+              "DocumentMoniker": "C:\\Users\\nima.rayan\\source\\repos\\GameEngine-C#Flappy-bird\\Engine\\Physics_Engine.cs",
+              "RelativeDocumentMoniker": "Engine\\Physics_Engine.cs",
+              "ToolTip": "C:\\Users\\nima.rayan\\source\\repos\\GameEngine-C#Flappy-bird\\Engine\\Physics_Engine.cs",
+              "RelativeToolTip": "Engine\\Physics_Engine.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAACQAAABBAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-24T17:03:27.067Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Pipe_2.cs",
+              "DocumentMoniker": "C:\\Users\\nima.rayan\\source\\repos\\GameEngine-C#Flappy-bird\\Engine\\Pipe_2.cs",
+              "RelativeDocumentMoniker": "Engine\\Pipe_2.cs",
+              "ToolTip": "C:\\Users\\nima.rayan\\source\\repos\\GameEngine-C#Flappy-bird\\Engine\\Pipe_2.cs",
+              "RelativeToolTip": "Engine\\Pipe_2.cs",
+              "ViewState": "AgIAAC0AAAAAAAAAAAAAADgAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-24T16:54:43.354Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Pipe.cs",
+              "DocumentMoniker": "C:\\Users\\nima.rayan\\source\\repos\\GameEngine-C#Flappy-bird\\Engine\\Pipe.cs",
+              "RelativeDocumentMoniker": "Engine\\Pipe.cs",
+              "ToolTip": "C:\\Users\\nima.rayan\\source\\repos\\GameEngine-C#Flappy-bird\\Engine\\Pipe.cs",
+              "RelativeToolTip": "Engine\\Pipe.cs",
+              "ViewState": "AgIAACwAAAAAAAAAAAAAADkAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-24T16:31:29.33Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\nima.rayan\\source\\repos\\GameEngine-C#Flappy-bird\\Engine\\Program.cs",
+              "RelativeDocumentMoniker": "Engine\\Program.cs",
+              "ToolTip": "C:\\Users\\nima.rayan\\source\\repos\\GameEngine-C#Flappy-bird\\Engine\\Program.cs",
+              "RelativeToolTip": "Engine\\Program.cs",
+              "ViewState": "AgIAABwAAAAAAAAAAAAAAC4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-22T20:27:10.224Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Flappy.cs",
+              "DocumentMoniker": "C:\\Users\\nima.rayan\\source\\repos\\GameEngine-C#Flappy-bird\\Engine\\Flappy.cs",
+              "RelativeDocumentMoniker": "Engine\\Flappy.cs",
+              "ToolTip": "C:\\Users\\nima.rayan\\source\\repos\\GameEngine-C#Flappy-bird\\Engine\\Flappy.cs",
+              "RelativeToolTip": "Engine\\Flappy.cs",
+              "ViewState": "AgIAADgAAAAAAAAAAAAwwE4AAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-24T15:49:51.02Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Pipe_spawner.cs",
+              "DocumentMoniker": "C:\\Users\\nima.rayan\\source\\repos\\GameEngine-C#Flappy-bird\\Engine\\Pipe_spawner.cs",
+              "RelativeDocumentMoniker": "Engine\\Pipe_spawner.cs",
+              "ToolTip": "C:\\Users\\nima.rayan\\source\\repos\\GameEngine-C#Flappy-bird\\Engine\\Pipe_spawner.cs",
+              "RelativeToolTip": "Engine\\Pipe_spawner.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAAACIAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-24T19:05:25.504Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ground.cs",
+              "DocumentMoniker": "C:\\Users\\nima.rayan\\source\\repos\\GameEngine-C#Flappy-bird\\Engine\\ground.cs",
+              "RelativeDocumentMoniker": "Engine\\ground.cs",
+              "ToolTip": "C:\\Users\\nima.rayan\\source\\repos\\GameEngine-C#Flappy-bird\\Engine\\ground.cs",
+              "RelativeToolTip": "Engine\\ground.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAAAA8AAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-24T17:29:14.213Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "GameEngine.csproj",
+              "DocumentMoniker": "C:\\Users\\nima.rayan\\source\\repos\\GameEngine-C#RAW\\something_random\\GameEngine.csproj",
+              "RelativeDocumentMoniker": "..\\GameEngine-C#RAW\\something_random\\GameEngine.csproj",
+              "ToolTip": "C:\\Users\\nima.rayan\\source\\repos\\GameEngine-C#RAW\\something_random\\GameEngine.csproj",
+              "RelativeToolTip": "..\\GameEngine-C#RAW\\something_random\\GameEngine.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-01-22T19:50:27.001Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Main_class.cs",
+              "DocumentMoniker": "C:\\Users\\nima.rayan\\source\\repos\\GameEngine-C#RAW\\something_random\\Main_class.cs",
+              "RelativeDocumentMoniker": "..\\GameEngine-C#RAW\\something_random\\Main_class.cs",
+              "ToolTip": "C:\\Users\\nima.rayan\\source\\repos\\GameEngine-C#RAW\\something_random\\Main_class.cs",
+              "RelativeToolTip": "..\\GameEngine-C#RAW\\something_random\\Main_class.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAAAD0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-22T17:41:34.867Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Render_engine.cs",
+              "DocumentMoniker": "C:\\Users\\nima.rayan\\source\\repos\\GameEngine-C#RAW\\something_random\\Render_engine.cs",
+              "RelativeDocumentMoniker": "..\\GameEngine-C#RAW\\something_random\\Render_engine.cs",
+              "ToolTip": "C:\\Users\\nima.rayan\\source\\repos\\GameEngine-C#RAW\\something_random\\Render_engine.cs",
+              "RelativeToolTip": "..\\GameEngine-C#RAW\\something_random\\Render_engine.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAABQwBgAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-22T18:17:58.245Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\nima.rayan\\source\\repos\\GameEngine-C#RAW\\something_random\\Program.cs",
+              "RelativeDocumentMoniker": "..\\GameEngine-C#RAW\\something_random\\Program.cs",
+              "ToolTip": "C:\\Users\\nima.rayan\\source\\repos\\GameEngine-C#RAW\\something_random\\Program.cs",
+              "RelativeToolTip": "..\\GameEngine-C#RAW\\something_random\\Program.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-22T13:55:36.21Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Input_system.cs",
+              "DocumentMoniker": "C:\\Users\\nima.rayan\\source\\repos\\GameEngine-C#RAW\\something_random\\Input_system.cs",
+              "RelativeDocumentMoniker": "..\\GameEngine-C#RAW\\something_random\\Input_system.cs",
+              "ToolTip": "C:\\Users\\nima.rayan\\source\\repos\\GameEngine-C#RAW\\something_random\\Input_system.cs",
+              "RelativeToolTip": "..\\GameEngine-C#RAW\\something_random\\Input_system.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-22T13:52:28.307Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Public_variables.cs",
+              "DocumentMoniker": "C:\\Users\\nima.rayan\\source\\repos\\GameEngine-C#RAW\\something_random\\Public_variables.cs",
+              "RelativeDocumentMoniker": "..\\GameEngine-C#RAW\\something_random\\Public_variables.cs",
+              "ToolTip": "C:\\Users\\nima.rayan\\source\\repos\\GameEngine-C#RAW\\something_random\\Public_variables.cs",
+              "RelativeToolTip": "..\\GameEngine-C#RAW\\something_random\\Public_variables.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAAAAsAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-22T13:52:35.525Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "something_else.cs",
+              "DocumentMoniker": "C:\\Users\\nima.rayan\\source\\repos\\GameEngine-C#RAW\\something_random\\something_else.cs",
+              "RelativeDocumentMoniker": "..\\GameEngine-C#RAW\\something_random\\something_else.cs",
+              "ToolTip": "C:\\Users\\nima.rayan\\source\\repos\\GameEngine-C#RAW\\something_random\\something_else.cs",
+              "RelativeToolTip": "..\\GameEngine-C#RAW\\something_random\\something_else.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-22T13:52:44.005Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "GameEngine.csproj",
+              "DocumentMoniker": "C:\\Users\\nima.rayan\\source\\repos\\GameEngine-C#RAW\\something_random\\GameEngine.csproj",
+              "RelativeDocumentMoniker": "..\\GameEngine-C#RAW\\something_random\\GameEngine.csproj",
+              "ToolTip": "C:\\Users\\nima.rayan\\source\\repos\\GameEngine-C#RAW\\something_random\\GameEngine.csproj",
+              "RelativeToolTip": "..\\GameEngine-C#RAW\\something_random\\GameEngine.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-01-22T19:50:10.886Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
