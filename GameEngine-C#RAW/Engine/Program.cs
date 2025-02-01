@@ -42,6 +42,10 @@ Input_system input = new Input_system();
 
 List<Main_class> removeMain = new List<Main_class>();
 
+Physics_Engine physics = new Physics_Engine();
+
+
+
 while (true)
 {
     /*                     Create a DeltaTime variable
@@ -73,6 +77,7 @@ while (true)
             //Calling Update function and input function for each Main_classes instances every frame
             c.Update(FloatdeltaTime);
             c.InputRecieve(input);
+            
 
             //Checking a copy of Classes list from public_variables class, this allows to check for collision 
             foreach(var i in new List<Main_class>(Variables.Classes))
@@ -115,6 +120,8 @@ while (true)
 
     input.Input_key(Variables.Classes);
 
+    //Checking the physics of all the instances
+    physics.Check_physics(Variables.Classes, FloatdeltaTime);
     //Call render function to render all of the Main_class instances
     engine_d.Render_engine_func(Variables.Classes);
     

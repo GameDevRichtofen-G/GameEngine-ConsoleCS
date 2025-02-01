@@ -62,12 +62,20 @@ namespace GameEngine
 
         [DllImport("user32.dll")]
         public static extern short GetAsyncKeyState(int vKey);
-        public string shape = "";//Defines the structure of a class and how the rendering engine processes it for rendering visuals
+
+        public List<string>  shape = [];//Defines the structure of a class and how the rendering engine processes it for rendering visuals.
+        //Example of how to use Shape : shape = ["####","####","####"];
+        /*                                                            Output : ####
+                                                                               ####
+                                                                               ####*/
+
         public bool Can_render;//A variable that determines whether that render engine can render this class or not 
         public bool spawn = true;//if false, this class will be destroyed.
         public ConsoleColor color;//Determine how render engine render the color of this class a.k.a material
         public ConsoleKeyInfo key;
         public Program programclass;
+
+        
 
 
         //Vectors
@@ -75,15 +83,24 @@ namespace GameEngine
         public float y = 10;//Y coordinates
         public float z = 0;//Z coordinates(Not available )
 
+        
+        
 
 
-        //Collision 
+
+        //Collision && Physics
         public float w = 0;//Width of this class
         public float h = 0;//heigh of this class
 
-
+        
+        public bool Physics = false;//Physics
         public bool Check_for_collision = false;//Can we check for collision or not
 
+
+        
+        public float Gravity = 9.8f;//Gravity of a class
+        public float Velocity = 0;//Velocity of a class
+        public bool Colliding = false;//Is class colliding with something; Good for stopping gravity
         public Public_variables variables;//Public_variable, variable that allows us to change properties of public_variable class
         public virtual void BeginPlay()
         {
@@ -103,15 +120,14 @@ namespace GameEngine
         public virtual int GetX()
         {
             //return X
-            
-            return 0;
+            int xx = int.Parse(Math.Round(x).ToString());
+            return xx;
         }
 
         public virtual int GetY()
         {
-            //Return Y
-
-            return 0;
+            int yy = int.Parse(Math.Round(y).ToString());
+            return yy;
         }
 
         public virtual Program GetProgram()
@@ -157,7 +173,15 @@ namespace GameEngine
         {
             //check for collision function
         }
-        
+
+        //Set the location of a class in one place with SetClassLocation()
+        public virtual void SetClassLocation(float X,float Y,float Z)
+        {
+            x = X; y = Y; z = Z;
+        }
+
+       
+       
     }
 
     
