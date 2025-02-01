@@ -24,8 +24,24 @@ namespace GameEngine
                     Console.SetCursorPosition(obj.GetX(), obj.GetY());
                     //setting the font color for this class
                     Console.ForegroundColor = obj.color;
+
                     //rendering the class
-                    Console.Write(obj.shape);
+
+                    for (int i = 0;i < obj.shape.Count;i++) 
+                    {
+                        //if loop was in first stage just print the first element,
+                        //if not go i amount down from class Y axis and then print the next element
+                        if(i == 0 )
+                        {
+                            Console.Write(obj.shape[i]);
+                        }
+                        else
+                        {
+                            Console.SetCursorPosition(obj.GetX(), obj.GetY() + i);
+                            Console.Write(obj.shape[i]);
+                        }
+                    }
+                    
                     
 
                 }
