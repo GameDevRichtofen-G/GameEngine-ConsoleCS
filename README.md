@@ -44,7 +44,17 @@ internal class [ClassName] : Main_class
 
 .
 
-`String` `shape` : Defines the structure of a class and how the rendering engine processes it for rendering visuals
+`List of String List` `shape` : Defines the structure of a class and how the rendering engine processes it for rendering visuals. `Example : `
+```csharp
+shape = [["####"]].
+```
+to render more layers, add more element like this : 
+```csharp
+shape = [["####"],["####"],"####"];
+/*OUTPUT : #####
+           #####
+           #####*/
+```
 
 `ConsoleColor` `color` : Determine how render engine render the color of `Main_class` a.k.a material
 
