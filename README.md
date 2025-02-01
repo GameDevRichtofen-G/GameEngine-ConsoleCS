@@ -41,7 +41,10 @@ internal class [ClassName] : Main_class
 `bool` `Can_render` : A variable that determines whether that render engine can render `Main_class` or not 
 
 `bool` `spawn` : if false, this class will be destroyed.
+`bool` `Physics` : Defines whether class needs physic or not
 
+`float` `Gravity` : Force of the gravity
+`float` `Velocity` : The speed and direction of an object as it falls under the influence of gravity
 .
 
 `List of String List` `shape` : Defines the structure of a class and how the rendering engine processes it for rendering visuals. `Example : `
@@ -55,6 +58,8 @@ shape = [["####"],["####"],"####"];
            #####
            #####*/
 ```
+
+
 
 `ConsoleColor` `color` : Determine how render engine render the color of `Main_class` a.k.a material
 
