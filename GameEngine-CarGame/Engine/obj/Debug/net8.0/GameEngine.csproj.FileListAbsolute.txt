@@ -44,3 +44,4 @@ C:\Users\nima.rayan\source\repos\Github\GameEngine-CarGame\Engine\obj\Debug\net8
 C:\Users\nima.rayan\source\repos\Github\GameEngine-CarGame\Engine\obj\Debug\net8.0\GameEngine.pdb
 C:\Users\nima.rayan\source\repos\Github\GameEngine-CarGame\Engine\obj\Debug\net8.0\GameEngine.genruntimeconfig.cache
 C:\Users\nima.rayan\source\repos\Github\GameEngine-CarGame\Engine\obj\Debug\net8.0\ref\GameEngine.dll
+C:\Users\nima.rayan\source\repos\Github\GameEngine-CarGame\Engine\obj\Debug\net8.0\GameEngine.sourcelink.json
